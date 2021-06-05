@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">readropsdb</string>
+    <string name="feedly" translatable="false">Feedly</string>
+    <string name="freshrss" translatable="false">Freshrss</string>
+    <string name="local_account">Local account</string>
+    <string name="nextcloud_news" translatable="false">Nextcloud News</string>
+</resources>

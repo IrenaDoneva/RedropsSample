@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Redrops.iml" filepath="$PROJECT_DIR$/.idea/modules/Redrops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/Redrops.api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/Redrops.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Redrops.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Redrops.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/db/Redrops.db.iml" filepath="$PROJECT_DIR$/.idea/modules/db/Redrops.db.iml" />
+    </modules>
+  </component>
+</project>

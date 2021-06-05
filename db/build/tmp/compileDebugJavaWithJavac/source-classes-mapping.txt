@@ -1,0 +1,146 @@
+com/readrops/db/entities/Feed.java
+ com.readrops.db.entities.Feed
+ com.readrops.db.entities.Feed$1
+com/readrops/db/filters/ListSortType.java
+ com.readrops.db.filters.ListSortType
+com/readrops/db/RoomFactoryWrapper.java
+ com.readrops.db.RoomFactoryWrapper
+ com.readrops.db.RoomFactoryWrapper$DataSourceWrapper
+com/readrops/db/pojo/FolderWithFeedCount.java
+ com.readrops.db.pojo.FolderWithFeedCount
+com/readrops/db/dao/ItemDao.java
+ com.readrops.db.dao.ItemDao
+com/readrops/db/dao/StarredItemDao_Impl.java
+ com.readrops.db.dao.StarredItemDao_Impl
+ com.readrops.db.dao.StarredItemDao_Impl$1
+ com.readrops.db.dao.StarredItemDao_Impl$10
+ com.readrops.db.dao.StarredItemDao_Impl$11
+ com.readrops.db.dao.StarredItemDao_Impl$11$1
+ com.readrops.db.dao.StarredItemDao_Impl$2
+ com.readrops.db.dao.StarredItemDao_Impl$3
+ com.readrops.db.dao.StarredItemDao_Impl$4
+ com.readrops.db.dao.StarredItemDao_Impl$5
+ com.readrops.db.dao.StarredItemDao_Impl$6
+ com.readrops.db.dao.StarredItemDao_Impl$7
+ com.readrops.db.dao.StarredItemDao_Impl$8
+ com.readrops.db.dao.StarredItemDao_Impl$9
+com/readrops/db/entities/account/Account.java
+ com.readrops.db.entities.account.Account
+ com.readrops.db.entities.account.Account$1
+com/readrops/db/dao/BaseDao.java
+ com.readrops.db.dao.BaseDao
+com/readrops/db/entities/account/AccountConfig.java
+ com.readrops.db.entities.account.AccountConfig
+ com.readrops.db.entities.account.AccountConfig$AccountConfigBuilder
+com/readrops/db/entities/Folder.java
+ com.readrops.db.entities.Folder
+ com.readrops.db.entities.Folder$1
+com/readrops/db/entities/Item.java
+ com.readrops.db.entities.Item
+com/readrops/db/dao/FolderDao.java
+ com.readrops.db.dao.FolderDao
+com/readrops/db/dao/FolderDao_Impl.java
+ com.readrops.db.dao.FolderDao_Impl
+ com.readrops.db.dao.FolderDao_Impl$1
+ com.readrops.db.dao.FolderDao_Impl$10
+ com.readrops.db.dao.FolderDao_Impl$11
+ com.readrops.db.dao.FolderDao_Impl$2
+ com.readrops.db.dao.FolderDao_Impl$3
+ com.readrops.db.dao.FolderDao_Impl$4
+ com.readrops.db.dao.FolderDao_Impl$5
+ com.readrops.db.dao.FolderDao_Impl$6
+ com.readrops.db.dao.FolderDao_Impl$7
+ com.readrops.db.dao.FolderDao_Impl$8
+ com.readrops.db.dao.FolderDao_Impl$9
+com/readrops/db/dao/FeedDao_Impl.java
+ com.readrops.db.dao.FeedDao_Impl
+ com.readrops.db.dao.FeedDao_Impl$1
+ com.readrops.db.dao.FeedDao_Impl$10
+ com.readrops.db.dao.FeedDao_Impl$11
+ com.readrops.db.dao.FeedDao_Impl$12
+ com.readrops.db.dao.FeedDao_Impl$13
+ com.readrops.db.dao.FeedDao_Impl$14
+ com.readrops.db.dao.FeedDao_Impl$15
+ com.readrops.db.dao.FeedDao_Impl$16
+ com.readrops.db.dao.FeedDao_Impl$17
+ com.readrops.db.dao.FeedDao_Impl$18
+ com.readrops.db.dao.FeedDao_Impl$19
+ com.readrops.db.dao.FeedDao_Impl$2
+ com.readrops.db.dao.FeedDao_Impl$20
+ com.readrops.db.dao.FeedDao_Impl$3
+ com.readrops.db.dao.FeedDao_Impl$4
+ com.readrops.db.dao.FeedDao_Impl$5
+ com.readrops.db.dao.FeedDao_Impl$6
+ com.readrops.db.dao.FeedDao_Impl$7
+ com.readrops.db.dao.FeedDao_Impl$8
+ com.readrops.db.dao.FeedDao_Impl$9
+com/readrops/db/dao/ItemsIdsDao_Impl.java
+ com.readrops.db.dao.ItemsIdsDao_Impl
+ com.readrops.db.dao.ItemsIdsDao_Impl$1
+ com.readrops.db.dao.ItemsIdsDao_Impl$2
+ com.readrops.db.dao.ItemsIdsDao_Impl$3
+ com.readrops.db.dao.ItemsIdsDao_Impl$4
+ com.readrops.db.dao.ItemsIdsDao_Impl$5
+ com.readrops.db.dao.ItemsIdsDao_Impl$6
+com/readrops/db/dao/ItemDao_Impl.java
+ com.readrops.db.dao.ItemDao_Impl
+ com.readrops.db.dao.ItemDao_Impl$1
+ com.readrops.db.dao.ItemDao_Impl$10
+ com.readrops.db.dao.ItemDao_Impl$11
+ com.readrops.db.dao.ItemDao_Impl$12
+ com.readrops.db.dao.ItemDao_Impl$13
+ com.readrops.db.dao.ItemDao_Impl$14
+ com.readrops.db.dao.ItemDao_Impl$15
+ com.readrops.db.dao.ItemDao_Impl$16
+ com.readrops.db.dao.ItemDao_Impl$17
+ com.readrops.db.dao.ItemDao_Impl$18
+ com.readrops.db.dao.ItemDao_Impl$19
+ com.readrops.db.dao.ItemDao_Impl$2
+ com.readrops.db.dao.ItemDao_Impl$20
+ com.readrops.db.dao.ItemDao_Impl$21
+ com.readrops.db.dao.ItemDao_Impl$21$1
+ com.readrops.db.dao.ItemDao_Impl$3
+ com.readrops.db.dao.ItemDao_Impl$4
+ com.readrops.db.dao.ItemDao_Impl$5
+ com.readrops.db.dao.ItemDao_Impl$6
+ com.readrops.db.dao.ItemDao_Impl$7
+ com.readrops.db.dao.ItemDao_Impl$8
+ com.readrops.db.dao.ItemDao_Impl$9
+com/readrops/db/Database_Impl.java
+ com.readrops.db.Database_Impl
+ com.readrops.db.Database_Impl$1
+com/readrops/db/pojo/FeedWithFolder.java
+ com.readrops.db.pojo.FeedWithFolder
+ com.readrops.db.pojo.FeedWithFolder$1
+com/readrops/db/dao/AccountDao.java
+ com.readrops.db.dao.AccountDao
+com/readrops/db/entities/account/AccountType.java
+ com.readrops.db.entities.account.AccountType
+ com.readrops.db.entities.account.AccountType$1
+com/readrops/db/Converters.java
+ com.readrops.db.Converters
+com/readrops/db/dao/FeedDao.java
+ com.readrops.db.dao.FeedDao
+com/readrops/db/dao/AccountDao_Impl.java
+ com.readrops.db.dao.AccountDao_Impl
+ com.readrops.db.dao.AccountDao_Impl$1
+ com.readrops.db.dao.AccountDao_Impl$10
+ com.readrops.db.dao.AccountDao_Impl$11
+ com.readrops.db.dao.AccountDao_Impl$12
+ com.readrops.db.dao.AccountDao_Impl$13
+ com.readrops.db.dao.AccountDao_Impl$14
+ com.readrops.db.dao.AccountDao_Impl$15
+ com.readrops.db.dao.AccountDao_Impl$16
+ com.readrops.db.dao.AccountDao_Impl$17
+ com.readrops.db.dao.AccountDao_Impl$2
+ com.readrops.db.dao.AccountDao_Impl$3
+ com.readrops.db.dao.AccountDao_Impl$4
+ com.readrops.db.dao.AccountDao_Impl$5
+ com.readrops.db.dao.AccountDao_Impl$6
+ com.readrops.db.dao.AccountDao_Impl$7
+ com.readrops.db.dao.AccountDao_Impl$8
+ com.readrops.db.dao.AccountDao_Impl$9
+com/readrops/db/filters/FilterType.java
+ com.readrops.db.filters.FilterType
+com/readrops/db/pojo/ItemWithFeed.java
+ com.readrops.db.pojo.ItemWithFeed

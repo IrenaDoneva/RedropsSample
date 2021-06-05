@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.icapps.niddler:niddler:1.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d803aa978921d5b2c74b574e3acf2629/jetified-niddler-1.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d803aa978921d5b2c74b574e3acf2629/jetified-niddler-1.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d803aa978921d5b2c74b574e3acf2629/jetified-niddler-1.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.icapps.niddler/niddler/1.2.0/b92e9c7436f188fbe9cb117482a09e780e2e5036/niddler-1.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.icapps.niddler/niddler/1.2.0/57472d89ebfca9fec25f52ccc6e7762fe667a762/niddler-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

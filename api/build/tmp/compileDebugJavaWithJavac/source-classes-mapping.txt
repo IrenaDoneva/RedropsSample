@@ -1,0 +1,33 @@
+com/readrops/api/utils/exceptions/ConflictException.java
+ com.readrops.api.utils.exceptions.ConflictException
+com/readrops/api/services/nextcloudnews/NextNewsDataSource.java
+ com.readrops.api.services.nextcloudnews.NextNewsDataSource
+ com.readrops.api.services.nextcloudnews.NextNewsDataSource$1
+ com.readrops.api.services.nextcloudnews.NextNewsDataSource$StateType
+com/readrops/api/services/freshrss/FreshRSSSyncData.java
+ com.readrops.api.services.freshrss.FreshRSSSyncData
+com/readrops/api/services/nextcloudnews/NextNewsService.java
+ com.readrops.api.services.nextcloudnews.NextNewsService
+com/readrops/api/services/nextcloudnews/NextNewsSyncData.java
+ com.readrops.api.services.nextcloudnews.NextNewsSyncData
+com/readrops/api/utils/ApiUtils.java
+ com.readrops.api.utils.ApiUtils
+com/readrops/api/utils/exceptions/ParseException.java
+ com.readrops.api.utils.exceptions.ParseException
+com/readrops/api/services/Credentials.java
+ com.readrops.api.services.Credentials
+ com.readrops.api.services.Credentials$1
+com/readrops/api/services/freshrss/FreshRSSDataSource.java
+ com.readrops.api.services.freshrss.FreshRSSDataSource
+com/readrops/api/services/freshrss/FreshRSSService.java
+ com.readrops.api.services.freshrss.FreshRSSService
+com/readrops/api/services/SyncType.java
+ com.readrops.api.services.SyncType
+com/readrops/api/services/freshrss/FreshRSSCredentials.java
+ com.readrops.api.services.freshrss.FreshRSSCredentials
+com/readrops/api/utils/DateUtils.java
+ com.readrops.api.utils.DateUtils
+com/readrops/api/utils/exceptions/UnknownFormatException.java
+ com.readrops.api.utils.exceptions.UnknownFormatException
+com/readrops/api/services/nextcloudnews/NextNewsCredentials.java
+ com.readrops.api.services.nextcloudnews.NextNewsCredentials

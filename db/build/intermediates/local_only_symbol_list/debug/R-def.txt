@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_feedly
+drawable ic_freshrss
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_nextcloud_news
+mipmap ic_launcher
+string app_name
+string feedly
+string freshrss
+string local_account
+string nextcloud_news

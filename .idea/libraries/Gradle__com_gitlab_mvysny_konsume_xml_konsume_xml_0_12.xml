@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.gitlab.mvysny.konsume-xml:konsume-xml:0.12">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gitlab.mvysny.konsume-xml/konsume-xml/0.12/9c70c90d21c4e12ff9e9d4aaa02b9956f0762a4b/konsume-xml-0.12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gitlab.mvysny.konsume-xml/konsume-xml/0.12/122538169fcd5121fe7fd0e0979b50116b40df0/konsume-xml-0.12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gitlab.mvysny.konsume-xml/konsume-xml/0.12/7350be6684e1e88b95f314c06a513eea438ab4ab/konsume-xml-0.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

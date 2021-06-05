@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.icapps.niddler:niddler-base:1.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.icapps.niddler/niddler-base/1.2.0/b3f14687a5c4779c1d02b0a945f56c8e39bd2fe9/niddler-base-1.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.icapps.niddler/niddler-base/1.2.0/a5e55bfe15b6619aa63ad185f4f5d409a0e7f061/niddler-base-1.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.icapps.niddler/niddler-base/1.2.0/eb63a321e6a8c18845d5d0414863e0151c669f5b/niddler-base-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

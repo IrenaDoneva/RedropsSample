@@ -1,0 +1,171 @@
+com/readrops/app/databinding/ActivityAddFeedBinding.java
+ com.readrops.app.databinding.ActivityAddFeedBinding
+com/readrops/app/utils/GlideRequests.java
+ com.readrops.app.utils.GlideRequests
+com/readrops/app/databinding/AddFeedItemBinding.java
+ com.readrops.app.databinding.AddFeedItemBinding
+com/readrops/app/feedsfolders/feeds/FeedsFragment.java
+ com.readrops.app.feedsfolders.feeds.FeedsFragment
+ com.readrops.app.feedsfolders.feeds.FeedsFragment$1
+ com.readrops.app.feedsfolders.feeds.FeedsFragment$2
+com/readrops/app/databinding/ActivitySettingsBinding.java
+ com.readrops.app.databinding.ActivitySettingsBinding
+com/readrops/app/databinding/EmptyListViewBinding.java
+ com.readrops.app.databinding.EmptyListViewBinding
+com/readrops/app/databinding/ListItemBinding.java
+ com.readrops.app.databinding.ListItemBinding
+com/readrops/app/databinding/NotificationPermissionLayoutBinding.java
+ com.readrops.app.databinding.NotificationPermissionLayoutBinding
+com/readrops/app/feedsfolders/ManageFeedsFoldersViewModel.java
+ com.readrops.app.feedsfolders.ManageFeedsFoldersViewModel
+com/readrops/app/settings/AccountSettingsFragment.java
+ com.readrops.app.settings.AccountSettingsFragment
+ com.readrops.app.settings.AccountSettingsFragment$1
+ com.readrops.app.settings.AccountSettingsFragment$2
+com/readrops/app/utils/customviews/ReadropsWebView.java
+ com.readrops.app.utils.customviews.ReadropsWebView
+com/readrops/app/item/ItemActivity.java
+ com.readrops.app.item.ItemActivity
+ com.readrops.app.item.ItemActivity$1
+com/readrops/app/repositories/FreshRSSRepository.java
+ com.readrops.app.repositories.FreshRSSRepository
+com/readrops/app/utils/GlideOptions.java
+ com.readrops.app.utils.GlideOptions
+com/readrops/app/repositories/LocalFeedRepository.java
+ com.readrops.app.repositories.LocalFeedRepository
+com/readrops/app/account/AccountViewModel.java
+ com.readrops.app.account.AccountViewModel
+com/readrops/app/itemslist/MainActivity.java
+ com.readrops.app.itemslist.MainActivity
+ com.readrops.app.itemslist.MainActivity$1
+ com.readrops.app.itemslist.MainActivity$2
+ com.readrops.app.itemslist.MainActivity$3
+ com.readrops.app.itemslist.MainActivity$4
+ com.readrops.app.itemslist.MainActivity$5
+ com.readrops.app.itemslist.MainActivity$6
+com/readrops/app/feedsfolders/folders/FoldersAdapter.java
+ com.readrops.app.feedsfolders.folders.FoldersAdapter
+ com.readrops.app.feedsfolders.folders.FoldersAdapter$1
+ com.readrops.app.feedsfolders.folders.FoldersAdapter$FolderViewHolder
+ com.readrops.app.feedsfolders.folders.FoldersAdapter$ManageFoldersListener
+com/readrops/app/account/AddAccountActivity.java
+ com.readrops.app.account.AddAccountActivity
+ com.readrops.app.account.AddAccountActivity$1
+ com.readrops.app.account.AddAccountActivity$2
+com/readrops/app/databinding/ActivityItemBinding.java
+ com.readrops.app.databinding.ActivityItemBinding
+com/readrops/app/utils/HtmlParser.java
+ com.readrops.app.utils.HtmlParser
+com/readrops/app/databinding/FeedOptionsLayoutBinding.java
+ com.readrops.app.databinding.FeedOptionsLayoutBinding
+com/readrops/app/databinding/ActivityAccountTypeListBinding.java
+ com.readrops.app.databinding.ActivityAccountTypeListBinding
+com/readrops/app/addfeed/ParsingResult.java
+ com.readrops.app.addfeed.ParsingResult
+ com.readrops.app.addfeed.ParsingResult$ParsingResultViewHolder
+com/readrops/app/databinding/FolderOptionsLayoutBinding.java
+ com.readrops.app.databinding.FolderOptionsLayoutBinding
+com/readrops/app/databinding/ActivityWebViewBinding.java
+ com.readrops.app.databinding.ActivityWebViewBinding
+com/readrops/app/addfeed/FeedInsertionResult.java
+ com.readrops.app.addfeed.FeedInsertionResult
+ com.readrops.app.addfeed.FeedInsertionResult$1
+ com.readrops.app.addfeed.FeedInsertionResult$FeedInsertionError
+ com.readrops.app.addfeed.FeedInsertionResult$FeedInsertionViewHolder
+com/readrops/app/feedsfolders/feeds/FeedsAdapter.java
+ com.readrops.app.feedsfolders.feeds.FeedsAdapter
+ com.readrops.app.feedsfolders.feeds.FeedsAdapter$1
+ com.readrops.app.feedsfolders.feeds.FeedsAdapter$FeedViewHolder
+ com.readrops.app.feedsfolders.feeds.FeedsAdapter$ManageFeedsListener
+com/readrops/app/utils/GlideApp.java
+ com.readrops.app.utils.GlideApp
+com/readrops/app/utils/Utils.java
+ com.readrops.app.utils.Utils
+com/bumptech/glide/GeneratedRequestManagerFactory.java
+ com.bumptech.glide.GeneratedRequestManagerFactory
+com/bumptech/glide/GeneratedAppGlideModuleImpl.java
+ com.bumptech.glide.GeneratedAppGlideModuleImpl
+com/readrops/app/databinding/FeedLayoutBinding.java
+ com.readrops.app.databinding.FeedLayoutBinding
+com/readrops/app/ReadropsDebugApp.java
+ com.readrops.app.ReadropsDebugApp
+com/readrops/app/SplashActivity.java
+ com.readrops.app.SplashActivity
+ com.readrops.app.SplashActivity$1
+com/readrops/app/addfeed/AccountArrayAdapter.java
+ com.readrops.app.addfeed.AccountArrayAdapter
+com/readrops/app/databinding/ActivityNotificationPermissionBinding.java
+ com.readrops.app.databinding.ActivityNotificationPermissionBinding
+com/readrops/app/itemslist/DrawerManager.java
+ com.readrops.app.itemslist.DrawerManager
+ com.readrops.app.itemslist.DrawerManager$1
+com/readrops/app/account/AccountTypeListAdapter.java
+ com.readrops.app.account.AccountTypeListAdapter
+ com.readrops.app.account.AccountTypeListAdapter$AccountTypeViewHolder
+ com.readrops.app.account.AccountTypeListAdapter$OnItemClickListener
+com/readrops/app/itemslist/MainItemListAdapter.java
+ com.readrops.app.itemslist.MainItemListAdapter
+ com.readrops.app.itemslist.MainItemListAdapter$1
+ com.readrops.app.itemslist.MainItemListAdapter$ItemViewHolder
+ com.readrops.app.itemslist.MainItemListAdapter$OnItemClickListener
+com/readrops/app/utils/SharedPreferencesManager.java
+ com.readrops.app.utils.SharedPreferencesManager
+ com.readrops.app.utils.SharedPreferencesManager$SharedPrefKey
+com/readrops/app/databinding/ActivitySplashBinding.java
+ com.readrops.app.databinding.ActivitySplashBinding
+com/readrops/app/feedsfolders/ManageFeedsFoldersActivity.java
+ com.readrops.app.feedsfolders.ManageFeedsFoldersActivity
+ com.readrops.app.feedsfolders.ManageFeedsFoldersActivity$1
+ com.readrops.app.feedsfolders.ManageFeedsFoldersActivity$FeedsFoldersPageAdapter
+com/readrops/app/repositories/NextNewsRepository.java
+ com.readrops.app.repositories.NextNewsRepository
+com/readrops/app/feedsfolders/folders/FoldersFragment.java
+ com.readrops.app.feedsfolders.folders.FoldersFragment
+ com.readrops.app.feedsfolders.folders.FoldersFragment$1
+com/readrops/app/item/ItemViewModel.java
+ com.readrops.app.item.ItemViewModel
+com/readrops/app/databinding/AccountTypeItemBinding.java
+ com.readrops.app.databinding.AccountTypeItemBinding
+com/readrops/app/databinding/FragmentFeedsBinding.java
+ com.readrops.app.databinding.FragmentFeedsBinding
+com/readrops/app/settings/SettingsActivity.java
+ com.readrops.app.settings.SettingsActivity
+ com.readrops.app.settings.SettingsActivity$1
+ com.readrops.app.settings.SettingsActivity$SettingsKey
+com/readrops/app/BuildConfig.java
+ com.readrops.app.BuildConfig
+com/readrops/app/databinding/EditFeedLayoutBinding.java
+ com.readrops.app.databinding.EditFeedLayoutBinding
+com/readrops/app/settings/SettingsFragment.java
+ com.readrops.app.settings.SettingsFragment
+com/readrops/app/databinding/ActivityMainBinding.java
+ com.readrops.app.databinding.ActivityMainBinding
+com/readrops/app/databinding/FeedInsertionResultBinding.java
+ com.readrops.app.databinding.FeedInsertionResultBinding
+com/readrops/app/databinding/FragmentFoldersBinding.java
+ com.readrops.app.databinding.FragmentFoldersBinding
+com/readrops/app/databinding/ActivityManageFeedsFoldersBinding.java
+ com.readrops.app.databinding.ActivityManageFeedsFoldersBinding
+com/readrops/app/feedsfolders/feeds/EditFeedDialogFragment.java
+ com.readrops.app.feedsfolders.feeds.EditFeedDialogFragment
+com/readrops/app/utils/GlideRequest.java
+ com.readrops.app.utils.GlideRequest
+com/readrops/app/repositories/ARepository.java
+ com.readrops.app.repositories.ARepository
+com/readrops/app/account/AccountTypeListActivity.java
+ com.readrops.app.account.AccountTypeListActivity
+ com.readrops.app.account.AccountTypeListActivity$1
+ com.readrops.app.account.AccountTypeListActivity$2
+com/readrops/app/itemslist/MainViewModel.java
+ com.readrops.app.itemslist.MainViewModel
+com/readrops/app/databinding/ActivityAddAccountBinding.java
+ com.readrops.app.databinding.ActivityAddAccountBinding
+com/readrops/app/addfeed/AddFeedActivity.java
+ com.readrops.app.addfeed.AddFeedActivity
+ com.readrops.app.addfeed.AddFeedActivity$1
+ com.readrops.app.addfeed.AddFeedActivity$2
+ com.readrops.app.addfeed.AddFeedActivity$3
+com/readrops/app/databinding/FolderLayoutBinding.java
+ com.readrops.app.databinding.FolderLayoutBinding
+com/readrops/app/addfeed/AddFeedsViewModel.java
+ com.readrops.app.addfeed.AddFeedsViewModel
