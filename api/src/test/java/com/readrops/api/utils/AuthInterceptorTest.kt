@@ -36,7 +36,7 @@ class AuthInterceptorTest {
         okHttpClient.newCall(Request.Builder().url(mockServer.url("/url")).build()).execute()
         val request = mockServer.takeRequest()
 
-        assertEquals(request.requestUrl.toString(), "http://localhost:8080/rss/url")
+        assertEquals(request.requestUrl.toString(), "http://kubernetes.docker.internal:8080/rss/url")
         assertEquals(request.headers["Authorization"], "GoogleLogin auth=token")
     }
 
@@ -48,7 +48,7 @@ class AuthInterceptorTest {
         okHttpClient.newCall(Request.Builder().url(mockServer.url("/url")).build()).execute()
         val request = mockServer.takeRequest()
 
-        assertEquals(request.requestUrl.toString(), "http://localhost:8080/url")
+        assertEquals(request.requestUrl.toString(), "http://kubernetes.docker.internal:8080/url")
         assertNull(request.headers["Authorization"])
     }
 }
