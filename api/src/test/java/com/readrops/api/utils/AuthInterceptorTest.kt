@@ -20,7 +20,7 @@ class AuthInterceptorTest {
     @Before
     fun before() {
         okHttpClient = OkHttpClient.Builder().addInterceptor(interceptor).build()
-        mockServer.start(8080)
+      //  mockServer.start(8080)
     }
 
     @After
