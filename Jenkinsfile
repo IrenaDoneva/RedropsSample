@@ -20,7 +20,7 @@ pipeline {
         junit '**/TEST-*.xml'
       }
     }
-    stage('Unit test') {
+    stage('Instrumented test') {
           steps {
             // Compile and run all the instrumented tests for the app and its dependencies
             sh './gradlew --no-daemon --debug :app:connectedDevDebugAndroidTest'
@@ -81,6 +81,9 @@ pipeline {
     failure {
       // Notify developer team of the failure
       mail to: 'irenadonevaa@gmail.com', subject: 'Oops!', body: "Build ${env.BUILD_NUMBER} failed; ${env.BUILD_URL}"
+    }
+    always {
+     archiveArtifacts(allowEmptyArchive: true, artifacts: 'app/build/outputs/apk/production/release/*.apk')
     }
   }
 }
