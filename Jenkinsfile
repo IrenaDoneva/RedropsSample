@@ -20,6 +20,15 @@ pipeline {
         junit '**/TEST-*.xml'
       }
     }
+    stage('Unit test') {
+          steps {
+            // Compile and run all the instrumented tests for the app and its dependencies
+            sh './gradlew --no-daemon --debug :app:connectedDevDebugAndroidTest'
+
+            // Analyse the test results and update the build result as appropriate
+            junit '**/TEST-INST*.xml'
+          }
+        }
     stage('Build APK') {
       steps {
         // Finish building and packaging the APK
