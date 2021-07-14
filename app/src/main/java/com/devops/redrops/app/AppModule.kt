@@ -12,7 +12,7 @@ import com.devops.redrops.app.repositories.NextNewsRepository
 import com.devops.redrops.app.utils.GlideApp
 import com.icapps.niddler.core.AndroidNiddler
 import com.icapps.niddler.core.Niddler
-import com.readrops.app.notifications.NotificationPermissionViewModel
+import com.devops.redrops.app.notifications.NotificationPermissionViewModel
 import com.readrops.db.entities.account.Account
 import com.readrops.db.entities.account.AccountType
 import org.koin.android.ext.koin.androidApplication

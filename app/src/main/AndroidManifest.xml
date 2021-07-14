@@ -41,8 +41,8 @@
 
         <service android:name=".utils.feedscolors.FeedsColorsIntentService" />
 
-        <receiver android:name="com.readrops.app.notifications.sync.SyncWorker$MarkReadReceiver" />
-        <receiver android:name="com.readrops.app.notifications.sync.SyncWorker$ReadLaterReceiver" />
+        <receiver android:name=".notifications.sync.SyncWorker$MarkReadReceiver" />
+        <receiver android:name=".notifications.sync.SyncWorker$ReadLaterReceiver" />
 
         <activity android:name=".settings.SettingsActivity" />
         <activity

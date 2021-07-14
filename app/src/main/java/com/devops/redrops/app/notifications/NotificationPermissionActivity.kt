@@ -14,7 +14,6 @@ import com.devops.redrops.app.utils.ReadropsKeys
 import com.devops.redrops.app.utils.ReadropsKeys.ACCOUNT_ID
 import com.devops.redrops.app.utils.SharedPreferencesManager
 import com.devops.redrops.app.utils.Utils
-import com.readrops.app.notifications.NotificationPermissionViewModel
 
 import com.readrops.db.entities.Feed
 import com.readrops.db.entities.account.Account

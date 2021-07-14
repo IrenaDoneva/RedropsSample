@@ -15,7 +15,7 @@ import androidx.work.PeriodicWorkRequest;
 import androidx.work.WorkManager;
 
 import com.devops.redrops.app.R;
-import com.readrops.app.notifications.sync.SyncWorker;
+import com.devops.redrops.app.notifications.sync.SyncWorker;
 import com.devops.redrops.app.utils.feedscolors.FeedsColorsIntentService;
 import com.readrops.db.Database;
 

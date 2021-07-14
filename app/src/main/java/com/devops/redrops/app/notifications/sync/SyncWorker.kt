@@ -1,4 +1,4 @@
-package com.readrops.app.notifications.sync
+package com.devops.redrops.app.notifications.sync
 
 import android.app.PendingIntent
 import android.content.BroadcastReceiver
@@ -13,7 +13,6 @@ import com.devops.redrops.app.R
 import com.readrops.api.services.SyncResult
 import com.devops.redrops.app.ReadropsApp
 import com.devops.redrops.app.itemslist.MainActivity
-import com.devops.redrops.app.notifications.sync.SyncResultAnalyser
 import com.devops.redrops.app.repositories.ARepository
 import com.devops.redrops.app.utils.ReadropsKeys
 import com.devops.redrops.app.utils.SharedPreferencesManager

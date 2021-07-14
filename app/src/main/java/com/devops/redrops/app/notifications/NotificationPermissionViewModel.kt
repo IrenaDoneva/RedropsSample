@@ -1,4 +1,4 @@
-package com.readrops.app.notifications
+package com.devops.redrops.app.notifications
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel
