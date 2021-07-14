@@ -8,17 +8,17 @@
 8
 9    <!-- for tests only -->
 10    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-10-->C:\Users\Irena\Desktop\Redrops\api\src\debug\AndroidManifest.xml:5:5-81
-10-->C:\Users\Irena\Desktop\Redrops\api\src\debug\AndroidManifest.xml:5:22-78
+10-->C:\Users\Irena\Desktop\Redrops\Readrops\api\src\debug\AndroidManifest.xml:5:5-81
+10-->C:\Users\Irena\Desktop\Redrops\Readrops\api\src\debug\AndroidManifest.xml:5:22-78
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\Irena\Desktop\Redrops\api\src\debug\AndroidManifest.xml:6:5-67
-11-->C:\Users\Irena\Desktop\Redrops\api\src\debug\AndroidManifest.xml:6:22-64
+11-->C:\Users\Irena\Desktop\Redrops\Readrops\api\src\debug\AndroidManifest.xml:6:5-67
+11-->C:\Users\Irena\Desktop\Redrops\Readrops\api\src\debug\AndroidManifest.xml:6:22-64
 12
 13    <application
-13-->C:\Users\Irena\Desktop\Redrops\api\src\debug\AndroidManifest.xml:8:5-10:47
+13-->C:\Users\Irena\Desktop\Redrops\Readrops\api\src\debug\AndroidManifest.xml:8:5-10:47
 14        android:requestLegacyExternalStorage="true"
-14-->C:\Users\Irena\Desktop\Redrops\api\src\debug\AndroidManifest.xml:9:9-52
+14-->C:\Users\Irena\Desktop\Redrops\Readrops\api\src\debug\AndroidManifest.xml:9:9-52
 15        android:usesCleartextTraffic="true" />
-15-->C:\Users\Irena\Desktop\Redrops\api\src\debug\AndroidManifest.xml:10:9-44
+15-->C:\Users\Irena\Desktop\Redrops\Readrops\api\src\debug\AndroidManifest.xml:10:9-44
 16
 17</manifest>

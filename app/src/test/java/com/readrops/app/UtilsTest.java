@@ -1,8 +1,8 @@
-package com.devops.redrops.app;
+package com.readrops.app;
 
 import android.graphics.Color;
 
-import com.devops.redrops.app.utils.Utils;
+import com.readrops.app.utils.Utils;
 
 import org.junit.Test;
 

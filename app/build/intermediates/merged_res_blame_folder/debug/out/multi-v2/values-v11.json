@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Irena\\Desktop\\Redrops\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "outputFile": "C:\\Users\\Irena\\Desktop\\Redrops\\Readrops\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Irena\\.gradle\\caches\\transforms-2\\files-2.1\\25c36f4659df5a5317569bb80e0600a8\\jetified-materialize-1.2.0\\res\\values-v11\\values-v11.xml",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Irena\\.gradle\\caches\\transforms-2\\files-2.1\\0f126e33d76d964d98588470030421f0\\jetified-core-0.9.6.0\\res\\values-v11\\values-v11.xml",
+                    "source": "C:\\Users\\Irena\\.gradle\\caches\\transforms-2\\files-2.1\\be681211ce8b78d28f806588906430ce\\jetified-core-0.9.6.0\\res\\values-v11\\values-v11.xml",
                     "from": {
                         "startLines": "2,19",
                         "startColumns": "4,4",

@@ -1,4 +1,4 @@
-package com.devops.redrops.app;
+package com.readrops.app;
 
 import android.util.Log;
 

@@ -4,7 +4,7 @@
     "type": "MERGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.devops.redrops.app.debug",
+  "applicationId": "com.readrops.app.debug",
   "variantName": "debug",
   "elements": [
     {

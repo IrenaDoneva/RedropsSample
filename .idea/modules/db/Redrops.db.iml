@@ -73,11 +73,6 @@
       <sourceFolder url="file://$MODULE_DIR$/../../../db/build/generated/source/kaptKotlin/debugUnitTest" isTestSource="true" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../../db/src/main/res" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/../../../db/schemas" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../db/build/generated/source/kaptKotlin/debug" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../db/build/generated/source/kaptKotlin/debugAndroidTest" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../db/build/generated/source/kaptKotlin/debugUnitTest" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../db/build/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../db/build/generated/res/resValues/debug" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../../../db/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../db/build" />
     </content>

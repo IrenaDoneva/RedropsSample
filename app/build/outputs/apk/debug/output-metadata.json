@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.devops.redrops.app.debug",
+  "applicationId": "com.readrops.app.debug",
   "variantName": "processDebugResources",
   "elements": [
     {

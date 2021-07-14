@@ -1,21 +1,21 @@
 -- Merging decision tree log ---
 provider#androidx.core.content.FileProvider
-INJECTED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:24:9-32:20
+INJECTED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:24:9-32:20
 	android:authorities
-		INJECTED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml
 manifest
-ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:2:1-89:12
-INJECTED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:2:1-89:12
-INJECTED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:2:1-89:12
-INJECTED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:2:1-89:12
-MERGED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:2:1-89:12
+ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:2:1-89:12
+MERGED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:2:1-89:12
 MERGED from [androidx.databinding:viewbinding:4.1.3] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\64a11fdc278561de5d78e5bcbe5e658a\jetified-viewbinding-4.1.3\AndroidManifest.xml:17:1-22:12
-MERGED from [:api] C:\Users\Irena\Desktop\Redrops\api\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:api] C:\Users\Irena\Desktop\Redrops\Readrops\api\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-17:12
 MERGED from [androidx.work:work-runtime-ktx:2.4.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\bbde01768d3216aa4044e2fc03158c75\work-runtime-ktx-2.4.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment-ktx:1.2.5] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\877e60331a5b289fee776df197f38ff0\jetified-fragment-ktx-1.2.5\AndroidManifest.xml:17:1-24:12
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.30.1] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\c9bddbeedc83116d858839d40e144b6f\jetified-flipper-network-plugin-0.30.1\AndroidManifest.xml:8:1-15:12
 MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\bca900a5443962b3b5007ed38048a643\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:2:1-16:12
-MERGED from [:db] C:\Users\Irena\Desktop\Redrops\db\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:db] C:\Users\Irena\Desktop\Redrops\Readrops\db\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\29f83f661fc2dd6667bf6a62be81045e\jetified-activity-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\181e8a3df06098343449937a597ce2dd\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\faa1dd859c400b55dcb0846a251f93ef\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
@@ -33,7 +33,7 @@ MERGED from [com.mikepenz:aboutlibraries:6.2.3] C:\Users\Irena\.gradle\caches\tr
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\d92628789da29d3dbfa2496b8e4145c1\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.palette:palette:1.0.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\2bd6bc3a4affa958563207c742656d02\palette-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.preference:preference:1.1.1] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\0df7983fdd2c8302213d28d96e19f9b4\preference-1.1.1\AndroidManifest.xml:17:1-24:12
-MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\0f126e33d76d964d98588470030421f0\jetified-core-0.9.6.0\AndroidManifest.xml:2:1-15:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\be681211ce8b78d28f806588906430ce\jetified-core-0.9.6.0\AndroidManifest.xml:2:1-15:12
 MERGED from [com.mikepenz:fastadapter-extensions-expandable:3.3.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\fb56e52661040b0a9f45dc1dd7eed119\jetified-fastadapter-extensions-expandable-3.3.0\AndroidManifest.xml:2:1-11:12
 MERGED from [com.mikepenz:fastadapter-commons:3.3.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\0091531893b0438fce467daa72c14d5f\jetified-fastadapter-commons-3.3.0\AndroidManifest.xml:2:1-11:12
 MERGED from [com.mikepenz:fastadapter:3.3.1] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\6d157e148482d37b338ac0e5b7c01bc4\jetified-fastadapter-3.3.1\AndroidManifest.xml:2:1-11:12
@@ -46,8 +46,8 @@ MERGED from [androidx.browser:browser:1.2.0] C:\Users\Irena\.gradle\caches\trans
 MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\b8a849e337630c5f7bbad1a9fe198e6a\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
 MERGED from [com.github.bumptech.glide:recyclerview-integration:4.11.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\12d8d95ef935121325764fac1e29dcc9\jetified-recyclerview-integration-4.11.0\AndroidManifest.xml:2:1-12:12
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\83acd2e6bf3bae1a80653fc82ab81861\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
-MERGED from [com.facebook.stetho:stetho:1.5.1] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\5527d4f4083a61cb9635ed30b9b8ae92\jetified-stetho-1.5.1\AndroidManifest.xml:2:1-13:12
-MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\5d09496b3e7d2be89c5744df493528e4\jetified-library-1.4.2\AndroidManifest.xml:6:1-16:12
+MERGED from [com.facebook.stetho:stetho:1.5.1] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\fcf7ef939a5b0d31252af744c6f69d0e\jetified-stetho-1.5.1\AndroidManifest.xml:2:1-13:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\ef3a472228bd8a9e2fffa23b5cc86f30\jetified-library-1.4.2\AndroidManifest.xml:6:1-16:12
 MERGED from [com.mikepenz:iconics-core:3.2.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\b08439c07d0be07445c1a843c7932ab5\jetified-iconics-core-3.2.0\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\8e0a164398b7d6dacc7a2fb7142be0c8\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\d4d98051f9b78e03ff9337dc2c12a3ad\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -94,59 +94,59 @@ MERGED from [com.facebook.fbjni:fbjni:0.0.2] C:\Users\Irena\.gradle\caches\trans
 MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\13741115bb206c333024005a565f4a77\jetified-rxandroid-2.1.1\AndroidManifest.xml:15:1-20:12
 MERGED from [com.icapps.niddler:niddler:1.2.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\d803aa978921d5b2c74b574e3acf2629\jetified-niddler-1.2.0\AndroidManifest.xml:2:1-14:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\380000889ca214510e444c2aff0b07c0\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\Irena\Desktop\Redrops\app\src\debug\AndroidManifest.xml:1:1-19:12
-INJECTED from C:\Users\Irena\Desktop\Redrops\app\src\debug\AndroidManifest.xml:1:1-19:12
-INJECTED from C:\Users\Irena\Desktop\Redrops\app\src\debug\AndroidManifest.xml:1:1-19:12
+INJECTED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\debug\AndroidManifest.xml:1:1-19:12
+INJECTED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\debug\AndroidManifest.xml:1:1-19:12
+INJECTED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\debug\AndroidManifest.xml:1:1-19:12
 	package
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:4:5-37
-		INJECTED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Irena\Desktop\Redrops\app\src\debug\AndroidManifest.xml
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:4:5-31
+		INJECTED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\debug\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:2:1-89:12
-		INJECTED from C:\Users\Irena\Desktop\Redrops\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:2:1-89:12
+		INJECTED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\debug\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:2:1-89:12
-		INJECTED from C:\Users\Irena\Desktop\Redrops\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:2:1-89:12
+		INJECTED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\debug\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:6:5-79
+ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:6:5-79
 MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\2aa703dbc15c95beeede035f5876c59c\work-runtime-2.4.0\AndroidManifest.xml:26:5-79
 MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\2aa703dbc15c95beeede035f5876c59c\work-runtime-2.4.0\AndroidManifest.xml:26:5-79
 	android:name
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:6:22-76
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:6:22-76
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:7:5-67
-MERGED from [:api] C:\Users\Irena\Desktop\Redrops\api\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
-MERGED from [:api] C:\Users\Irena\Desktop\Redrops\api\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [:api] C:\Users\Irena\Desktop\Redrops\Readrops\api\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [:api] C:\Users\Irena\Desktop\Redrops\Readrops\api\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
 MERGED from [com.facebook.flipper:flipper:0.30.1] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\3fe5e8dd2978920a78a59985d3afcfb4\jetified-flipper-0.30.1\AndroidManifest.xml:15:5-67
 MERGED from [com.facebook.flipper:flipper:0.30.1] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\3fe5e8dd2978920a78a59985d3afcfb4\jetified-flipper-0.30.1\AndroidManifest.xml:15:5-67
 	android:name
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:7:22-64
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:7:22-64
 uses-permission#android.permission.FOREGROUND_SERVICE
-ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:8:5-77
+ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:8:5-77
 MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\2aa703dbc15c95beeede035f5876c59c\work-runtime-2.4.0\AndroidManifest.xml:28:5-77
 MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\2aa703dbc15c95beeede035f5876c59c\work-runtime-2.4.0\AndroidManifest.xml:28:5-77
 	android:name
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:8:22-74
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:8:22-74
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:9:5-11:38
-MERGED from [:api] C:\Users\Irena\Desktop\Redrops\api\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-81
-MERGED from [:api] C:\Users\Irena\Desktop\Redrops\api\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-81
+ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:9:5-11:38
+MERGED from [:api] C:\Users\Irena\Desktop\Redrops\Readrops\api\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-81
+MERGED from [:api] C:\Users\Irena\Desktop\Redrops\Readrops\api\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-81
 	android:maxSdkVersion
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:11:9-35
 	android:name
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:10:9-65
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:10:9-65
 application
-ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:13:5-87:19
-MERGED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:13:5-87:19
-MERGED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:13:5-87:19
-MERGED from [:api] C:\Users\Irena\Desktop\Redrops\api\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-15:47
-MERGED from [:api] C:\Users\Irena\Desktop\Redrops\api\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-15:47
+ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:13:5-87:19
+MERGED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:13:5-87:19
+MERGED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:13:5-87:19
+MERGED from [:api] C:\Users\Irena\Desktop\Redrops\Readrops\api\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-15:47
+MERGED from [:api] C:\Users\Irena\Desktop\Redrops\Readrops\api\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-15:47
 MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\bca900a5443962b3b5007ed38048a643\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:10:5-14:19
 MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\bca900a5443962b3b5007ed38048a643\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:10:5-14:19
 MERGED from [org.koin:koin-androidx-viewmodel:2.1.6] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\512d0040de9e8c6e90fbeaf05f1be81b\jetified-koin-androidx-viewmodel-2.1.6\AndroidManifest.xml:7:5-20
@@ -159,8 +159,8 @@ MERGED from [com.google.android.material:material:1.2.1] C:\Users\Irena\.gradle\
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\5d5334f988a186c31c74322e3301c6c1\material-1.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.mikepenz:aboutlibraries:6.2.3] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\4fa48433ba7044364f02a7b8b9c3f76d\jetified-aboutlibraries-6.2.3\AndroidManifest.xml:11:5-13:19
 MERGED from [com.mikepenz:aboutlibraries:6.2.3] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\4fa48433ba7044364f02a7b8b9c3f76d\jetified-aboutlibraries-6.2.3\AndroidManifest.xml:11:5-13:19
-MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\0f126e33d76d964d98588470030421f0\jetified-core-0.9.6.0\AndroidManifest.xml:13:5-20
-MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\0f126e33d76d964d98588470030421f0\jetified-core-0.9.6.0\AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\be681211ce8b78d28f806588906430ce\jetified-core-0.9.6.0\AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\be681211ce8b78d28f806588906430ce\jetified-core-0.9.6.0\AndroidManifest.xml:13:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\60befc628333360b88acfd6a01dc830e\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\60befc628333360b88acfd6a01dc830e\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
 MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\b8a849e337630c5f7bbad1a9fe198e6a\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
@@ -169,8 +169,8 @@ MERGED from [com.github.bumptech.glide:recyclerview-integration:4.11.0] C:\Users
 MERGED from [com.github.bumptech.glide:recyclerview-integration:4.11.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\12d8d95ef935121325764fac1e29dcc9\jetified-recyclerview-integration-4.11.0\AndroidManifest.xml:10:5-20
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\83acd2e6bf3bae1a80653fc82ab81861\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\83acd2e6bf3bae1a80653fc82ab81861\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
-MERGED from [com.facebook.stetho:stetho:1.5.1] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\5527d4f4083a61cb9635ed30b9b8ae92\jetified-stetho-1.5.1\AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.stetho:stetho:1.5.1] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\5527d4f4083a61cb9635ed30b9b8ae92\jetified-stetho-1.5.1\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.1] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\fcf7ef939a5b0d31252af744c6f69d0e\jetified-stetho-1.5.1\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.1] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\fcf7ef939a5b0d31252af744c6f69d0e\jetified-stetho-1.5.1\AndroidManifest.xml:11:5-20
 MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\2aa703dbc15c95beeede035f5876c59c\work-runtime-2.4.0\AndroidManifest.xml:30:5-141:19
 MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\2aa703dbc15c95beeede035f5876c59c\work-runtime-2.4.0\AndroidManifest.xml:30:5-141:19
 MERGED from [androidx.core:core:1.3.2] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\68600a5be4367d49d50b69b04e4caf8f\core-1.3.2\AndroidManifest.xml:24:5-89
@@ -186,149 +186,149 @@ MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Irena\.gradle\caches\tra
 MERGED from [com.icapps.niddler:niddler:1.2.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\d803aa978921d5b2c74b574e3acf2629\jetified-niddler-1.2.0\AndroidManifest.xml:7:5-12:19
 MERGED from [com.icapps.niddler:niddler:1.2.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\d803aa978921d5b2c74b574e3acf2629\jetified-niddler-1.2.0\AndroidManifest.xml:7:5-12:19
 	android:requestLegacyExternalStorage
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:18:9-52
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:18:9-52
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:18:9-52
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:18:9-52
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.2] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\68600a5be4367d49d50b69b04e4caf8f\core-1.3.2\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:19:9-35
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:19:9-35
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:19:9-35
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:19:9-35
 	android:label
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:17:9-41
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:17:9-41
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:17:9-41
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:17:9-41
 	tools:ignore
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:22:9-76
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:22:9-76
 	android:icon
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:16:9-43
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:16:9-43
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:16:9-43
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:16:9-43
 	android:allowBackup
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:15:9-35
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:15:9-35
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:15:9-35
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:15:9-35
 	android:theme
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:20:9-40
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:20:9-40
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:20:9-40
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:20:9-40
 	tools:replace
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\debug\AndroidManifest.xml:8:9-37
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\debug\AndroidManifest.xml:8:9-37
 	android:usesCleartextTraffic
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:21:9-44
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:21:9-44
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:21:9-44
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:21:9-44
 	android:name
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:14:9-36
-		REJECTED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:14:9-36
-activity#com.devops.redrops.app.notifications.NotificationPermissionActivity
-ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:34:9-36:47
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:14:9-36
+		REJECTED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:14:9-36
+activity#com.readrops.app.notifications.NotificationPermissionActivity
+ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:34:9-36:47
 	android:theme
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:36:13-44
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:36:13-44
 	android:name
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:35:13-73
-activity#com.devops.redrops.app.item.WebViewActivity
-ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:38:9-40:59
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:35:13-73
+activity#com.readrops.app.item.WebViewActivity
+ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:38:9-40:59
 	android:theme
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:40:13-56
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:40:13-56
 	android:name
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:39:13-49
-service#com.devops.redrops.app.utils.feedscolors.FeedsColorsIntentService
-ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:42:9-79
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:39:13-49
+service#com.readrops.app.utils.feedscolors.FeedsColorsIntentService
+ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:42:9-79
 	android:name
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:42:18-76
-receiver#com.devops.redrops.app.notifications.sync.SyncWorker$MarkReadReceiver
-ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:44:9-84
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:42:18-76
+receiver#com.readrops.app.notifications.sync.SyncWorker$MarkReadReceiver
+ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:44:9-84
 	android:name
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:44:19-81
-receiver#com.devops.redrops.app.notifications.sync.SyncWorker$ReadLaterReceiver
-ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:45:9-85
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:44:19-81
+receiver#com.readrops.app.notifications.sync.SyncWorker$ReadLaterReceiver
+ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:45:9-85
 	android:name
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:45:19-82
-activity#com.devops.redrops.app.settings.SettingsActivity
-ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:47:9-63
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:45:19-82
+activity#com.readrops.app.settings.SettingsActivity
+ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:47:9-63
 	android:name
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:47:19-60
-activity#com.devops.redrops.app.SplashActivity
-ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:48:9-56:20
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:47:19-60
+activity#com.readrops.app.SplashActivity
+ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:48:9-56:20
 	android:theme
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:50:13-47
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:50:13-47
 	android:name
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:49:13-43
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:49:13-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:51:13-55:29
+ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:51:13-55:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:52:17-69
+ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:52:17-69
 	android:name
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:52:25-66
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:52:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:54:17-77
+ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:54:17-77
 	android:name
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:54:27-74
-activity#com.devops.redrops.app.account.AccountTypeListActivity
-ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:57:9-69
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:54:27-74
+activity#com.readrops.app.account.AccountTypeListActivity
+ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:57:9-69
 	android:name
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:57:19-66
-activity#com.devops.redrops.app.account.AddAccountActivity
-ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:58:9-60:51
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:57:19-66
+activity#com.readrops.app.account.AddAccountActivity
+ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:58:9-60:51
 	android:label
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:60:13-48
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:60:13-48
 	android:name
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:59:13-55
-activity#com.devops.redrops.app.feedsfolders.ManageFeedsFoldersActivity
-ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:61:9-65:59
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:59:13-55
+activity#com.readrops.app.feedsfolders.ManageFeedsFoldersActivity
+ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:61:9-65:59
 	android:parentActivityName
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:64:13-65
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:64:13-65
 	android:label
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:63:13-57
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:63:13-57
 	android:theme
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:65:13-56
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:65:13-56
 	android:name
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:62:13-68
-activity#com.devops.redrops.app.itemslist.MainActivity
-ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:66:9-70:59
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:62:13-68
+activity#com.readrops.app.itemslist.MainActivity
+ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:66:9-70:59
 	android:label
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:68:13-45
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:68:13-45
 	android:launchMode
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:69:13-44
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:69:13-44
 	android:theme
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:70:13-56
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:70:13-56
 	android:name
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:67:13-51
-activity#com.devops.redrops.app.item.ItemActivity
-ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:71:9-74:59
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:67:13-51
+activity#com.readrops.app.item.ItemActivity
+ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:71:9-74:59
 	android:parentActivityName
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:73:13-65
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:73:13-65
 	android:theme
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:74:13-56
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:74:13-56
 	android:name
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:72:13-46
-activity#com.devops.redrops.app.addfeed.AddFeedActivity
-ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:75:9-86:20
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:72:13-46
+activity#com.readrops.app.addfeed.AddFeedActivity
+ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:75:9-86:20
 	android:parentActivityName
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:78:13-65
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:78:13-65
 	android:label
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:77:13-51
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:77:13-51
 	android:name
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:76:13-52
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:76:13-52
 intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:text/plain
-ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:79:13-85:29
+ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:79:13-85:29
 	android:label
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:79:28-60
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:79:28-60
 action#android.intent.action.SEND
-ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:80:17-69
+ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:80:17-69
 	android:name
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:80:25-66
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:80:25-66
 category#android.intent.category.DEFAULT
-ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:82:17-76
+ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:82:17-76
 	android:name
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:82:27-73
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:82:27-73
 data
-ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:84:17-55
+ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:84:17-55
 	android:mimeType
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml:84:23-52
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml:84:23-52
 uses-sdk
-INJECTED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:4.1.3] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\64a11fdc278561de5d78e5bcbe5e658a\jetified-viewbinding-4.1.3\AndroidManifest.xml:20:5-44
 MERGED from [androidx.databinding:viewbinding:4.1.3] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\64a11fdc278561de5d78e5bcbe5e658a\jetified-viewbinding-4.1.3\AndroidManifest.xml:20:5-44
-MERGED from [:api] C:\Users\Irena\Desktop\Redrops\api\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:api] C:\Users\Irena\Desktop\Redrops\api\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:api] C:\Users\Irena\Desktop\Redrops\Readrops\api\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:api] C:\Users\Irena\Desktop\Redrops\Readrops\api\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.work:work-runtime-ktx:2.4.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\bbde01768d3216aa4044e2fc03158c75\work-runtime-ktx-2.4.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.work:work-runtime-ktx:2.4.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\bbde01768d3216aa4044e2fc03158c75\work-runtime-ktx-2.4.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment-ktx:1.2.5] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\877e60331a5b289fee776df197f38ff0\jetified-fragment-ktx-1.2.5\AndroidManifest.xml:20:5-22:41
@@ -337,8 +337,8 @@ MERGED from [com.facebook.flipper:flipper-network-plugin:0.30.1] C:\Users\Irena\
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.30.1] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\c9bddbeedc83116d858839d40e144b6f\jetified-flipper-network-plugin-0.30.1\AndroidManifest.xml:11:5-13:41
 MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\bca900a5443962b3b5007ed38048a643\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:6:5-8:41
 MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\bca900a5443962b3b5007ed38048a643\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:6:5-8:41
-MERGED from [:db] C:\Users\Irena\Desktop\Redrops\db\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:db] C:\Users\Irena\Desktop\Redrops\db\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:db] C:\Users\Irena\Desktop\Redrops\Readrops\db\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:db] C:\Users\Irena\Desktop\Redrops\Readrops\db\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\29f83f661fc2dd6667bf6a62be81045e\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\29f83f661fc2dd6667bf6a62be81045e\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\181e8a3df06098343449937a597ce2dd\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
@@ -373,8 +373,8 @@ MERGED from [androidx.palette:palette:1.0.0] C:\Users\Irena\.gradle\caches\trans
 MERGED from [androidx.palette:palette:1.0.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\2bd6bc3a4affa958563207c742656d02\palette-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.preference:preference:1.1.1] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\0df7983fdd2c8302213d28d96e19f9b4\preference-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.preference:preference:1.1.1] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\0df7983fdd2c8302213d28d96e19f9b4\preference-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\0f126e33d76d964d98588470030421f0\jetified-core-0.9.6.0\AndroidManifest.xml:8:5-11:75
-MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\0f126e33d76d964d98588470030421f0\jetified-core-0.9.6.0\AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\be681211ce8b78d28f806588906430ce\jetified-core-0.9.6.0\AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\be681211ce8b78d28f806588906430ce\jetified-core-0.9.6.0\AndroidManifest.xml:8:5-11:75
 MERGED from [com.mikepenz:fastadapter-extensions-expandable:3.3.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\fb56e52661040b0a9f45dc1dd7eed119\jetified-fastadapter-extensions-expandable-3.3.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.mikepenz:fastadapter-extensions-expandable:3.3.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\fb56e52661040b0a9f45dc1dd7eed119\jetified-fastadapter-extensions-expandable-3.3.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.mikepenz:fastadapter-commons:3.3.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\0091531893b0438fce467daa72c14d5f\jetified-fastadapter-commons-3.3.0\AndroidManifest.xml:7:5-9:41
@@ -399,10 +399,10 @@ MERGED from [com.github.bumptech.glide:recyclerview-integration:4.11.0] C:\Users
 MERGED from [com.github.bumptech.glide:recyclerview-integration:4.11.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\12d8d95ef935121325764fac1e29dcc9\jetified-recyclerview-integration-4.11.0\AndroidManifest.xml:6:5-8:41
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\83acd2e6bf3bae1a80653fc82ab81861\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\83acd2e6bf3bae1a80653fc82ab81861\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.facebook.stetho:stetho:1.5.1] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\5527d4f4083a61cb9635ed30b9b8ae92\jetified-stetho-1.5.1\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.stetho:stetho:1.5.1] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\5527d4f4083a61cb9635ed30b9b8ae92\jetified-stetho-1.5.1\AndroidManifest.xml:7:5-9:41
-MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\5d09496b3e7d2be89c5744df493528e4\jetified-library-1.4.2\AndroidManifest.xml:12:5-14:41
-MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\5d09496b3e7d2be89c5744df493528e4\jetified-library-1.4.2\AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.stetho:stetho:1.5.1] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\fcf7ef939a5b0d31252af744c6f69d0e\jetified-stetho-1.5.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.1] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\fcf7ef939a5b0d31252af744c6f69d0e\jetified-stetho-1.5.1\AndroidManifest.xml:7:5-9:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\ef3a472228bd8a9e2fffa23b5cc86f30\jetified-library-1.4.2\AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\ef3a472228bd8a9e2fffa23b5cc86f30\jetified-library-1.4.2\AndroidManifest.xml:12:5-14:41
 MERGED from [com.mikepenz:iconics-core:3.2.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\b08439c07d0be07445c1a843c7932ab5\jetified-iconics-core-3.2.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.mikepenz:iconics-core:3.2.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\b08439c07d0be07445c1a843c7932ab5\jetified-iconics-core-3.2.0\AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\8e0a164398b7d6dacc7a2fb7142be0c8\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
@@ -495,33 +495,33 @@ MERGED from [com.icapps.niddler:niddler:1.2.0] C:\Users\Irena\.gradle\caches\tra
 MERGED from [com.icapps.niddler:niddler:1.2.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\d803aa978921d5b2c74b574e3acf2629\jetified-niddler-1.2.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\380000889ca214510e444c2aff0b07c0\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\380000889ca214510e444c2aff0b07c0\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\Irena\Desktop\Redrops\app\src\debug\AndroidManifest.xml
-INJECTED from C:\Users\Irena\Desktop\Redrops\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\debug\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\0f126e33d76d964d98588470030421f0\jetified-core-0.9.6.0\AndroidManifest.xml:11:9-72
+		ADDED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\be681211ce8b78d28f806588906430ce\jetified-core-0.9.6.0\AndroidManifest.xml:11:9-72
 	android:targetSdkVersion
-		INJECTED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Irena\Desktop\Redrops\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\debug\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Irena\Desktop\Redrops\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Irena\Desktop\Redrops\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\debug\AndroidManifest.xml
 meta-data#com.niddler.icon
-ADDED from C:\Users\Irena\Desktop\Redrops\app\src\debug\AndroidManifest.xml:10:9-77
+ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\debug\AndroidManifest.xml:10:9-77
 	android:value
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\debug\AndroidManifest.xml:10:52-75
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\debug\AndroidManifest.xml:10:52-75
 	android:name
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\debug\AndroidManifest.xml:10:20-51
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\debug\AndroidManifest.xml:10:20-51
 provider#androidx.work.impl.WorkManagerInitializer
-ADDED from C:\Users\Irena\Desktop\Redrops\app\src\debug\AndroidManifest.xml:12:9-16:40
+ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\debug\AndroidManifest.xml:12:9-16:40
 REJECTED from [androidx.work:work-runtime:2.4.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\2aa703dbc15c95beeede035f5876c59c\work-runtime-2.4.0\AndroidManifest.xml:31:9-37:35
 	tools:node
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\debug\AndroidManifest.xml:15:13-32
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\debug\AndroidManifest.xml:15:13-32
 	android:authorities
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\debug\AndroidManifest.xml:14:13-68
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\debug\AndroidManifest.xml:14:13-68
 	android:exported
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\debug\AndroidManifest.xml:16:13-37
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\debug\AndroidManifest.xml:16:13-37
 	android:name
-		ADDED from C:\Users\Irena\Desktop\Redrops\app\src\debug\AndroidManifest.xml:13:13-69
+		ADDED from C:\Users\Irena\Desktop\Redrops\Readrops\app\src\debug\AndroidManifest.xml:13:13-69
 meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
 ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Irena\.gradle\caches\transforms-2\files-2.1\bca900a5443962b3b5007ed38048a643\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:11:9-13:43
 	android:value
