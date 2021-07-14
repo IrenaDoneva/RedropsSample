@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.readrops.app">
+    package="com.devops.redrops.app">
 
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -41,8 +41,8 @@
 
         <service android:name=".utils.feedscolors.FeedsColorsIntentService" />
 
-        <receiver android:name=".notifications.sync.SyncWorker$MarkReadReceiver" />
-        <receiver android:name=".notifications.sync.SyncWorker$ReadLaterReceiver" />
+        <receiver android:name="com.readrops.app.notifications.sync.SyncWorker$MarkReadReceiver" />
+        <receiver android:name="com.readrops.app.notifications.sync.SyncWorker$ReadLaterReceiver" />
 
         <activity android:name=".settings.SettingsActivity" />
         <activity
