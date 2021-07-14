@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Irena\\Desktop\\Redrops\\Readrops\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "C:\\Users\\Irena\\Desktop\\Redrops\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Irena\\.gradle\\caches\\transforms-2\\files-2.1\\25c36f4659df5a5317569bb80e0600a8\\jetified-materialize-1.2.0\\res\\values-night-v8\\values-night-v8.xml",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Irena\\Desktop\\Redrops\\Readrops\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\Users\\Irena\\Desktop\\Redrops\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "2,14",
                         "startColumns": "4,4",

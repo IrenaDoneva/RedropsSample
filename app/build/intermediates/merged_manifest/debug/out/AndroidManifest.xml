@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.readrops.app.debug"
+    package="com.devops.redrops.app.debug"
     android:versionCode="12"
     android:versionName="1.2.1" >
 
@@ -19,7 +19,7 @@
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
 
     <application
-        android:name="com.readrops.app.ReadropsDebugApp"
+        android:name="com.devops.redrops.app.ReadropsDebugApp"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
@@ -36,7 +36,7 @@
 
         <provider
             android:name="androidx.core.content.FileProvider"
-            android:authorities="com.readrops.app.debug"
+            android:authorities="com.devops.redrops.app.debug"
             android:exported="false"
             android:grantUriPermissions="true" >
             <meta-data
@@ -45,20 +45,20 @@
         </provider>
 
         <activity
-            android:name="com.readrops.app.notifications.NotificationPermissionActivity"
+            android:name="com.devops.redrops.app.notifications.NotificationPermissionActivity"
             android:theme="@style/AppTheme" />
         <activity
-            android:name="com.readrops.app.item.WebViewActivity"
+            android:name="com.devops.redrops.app.item.WebViewActivity"
             android:theme="@style/AppTheme.NoActionBar" />
 
-        <service android:name="com.readrops.app.utils.feedscolors.FeedsColorsIntentService" />
+        <service android:name="com.devops.redrops.app.utils.feedscolors.FeedsColorsIntentService" />
 
-        <receiver android:name="com.readrops.app.notifications.sync.SyncWorker$MarkReadReceiver" />
-        <receiver android:name="com.readrops.app.notifications.sync.SyncWorker$ReadLaterReceiver" />
+        <receiver android:name="com.devops.redrops.app.notifications.sync.SyncWorker$MarkReadReceiver" />
+        <receiver android:name="com.devops.redrops.app.notifications.sync.SyncWorker$ReadLaterReceiver" />
 
-        <activity android:name="com.readrops.app.settings.SettingsActivity" />
+        <activity android:name="com.devops.redrops.app.settings.SettingsActivity" />
         <activity
-            android:name="com.readrops.app.SplashActivity"
+            android:name="com.devops.redrops.app.SplashActivity"
             android:theme="@style/SplashTheme" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -66,28 +66,28 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.readrops.app.account.AccountTypeListActivity" />
+        <activity android:name="com.devops.redrops.app.account.AccountTypeListActivity" />
         <activity
-            android:name="com.readrops.app.account.AddAccountActivity"
+            android:name="com.devops.redrops.app.account.AddAccountActivity"
             android:label="@string/add_account" />
         <activity
-            android:name="com.readrops.app.feedsfolders.ManageFeedsFoldersActivity"
+            android:name="com.devops.redrops.app.feedsfolders.ManageFeedsFoldersActivity"
             android:label="@string/manage_feeds_folders"
-            android:parentActivityName="com.readrops.app.itemslist.MainActivity"
+            android:parentActivityName="com.devops.redrops.app.itemslist.MainActivity"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.readrops.app.itemslist.MainActivity"
+            android:name="com.devops.redrops.app.itemslist.MainActivity"
             android:label="@string/articles"
             android:launchMode="singleTask"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.readrops.app.item.ItemActivity"
-            android:parentActivityName="com.readrops.app.itemslist.MainActivity"
+            android:name="com.devops.redrops.app.item.ItemActivity"
+            android:parentActivityName="com.devops.redrops.app.itemslist.MainActivity"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.readrops.app.addfeed.AddFeedActivity"
+            android:name="com.devops.redrops.app.addfeed.AddFeedActivity"
             android:label="@string/add_feed_title"
-            android:parentActivityName="com.readrops.app.itemslist.MainActivity" >
+            android:parentActivityName="com.devops.redrops.app.itemslist.MainActivity" >
             <intent-filter android:label="@string/new_feed" >
                 <action android:name="android.intent.action.SEND" />
 
@@ -197,7 +197,7 @@
 
         <provider
             android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-            android:authorities="com.readrops.app.debug.lifecycle-process"
+            android:authorities="com.devops.redrops.app.debug.lifecycle-process"
             android:exported="false"
             android:multiprocess="true" />
 

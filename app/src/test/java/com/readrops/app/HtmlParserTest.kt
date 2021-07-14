@@ -1,8 +1,8 @@
-package com.readrops.app
+package com.devops.redrops.app
 
 import com.readrops.api.utils.AuthInterceptor
-import com.readrops.app.utils.HtmlParser
-import com.readrops.app.addfeed.ParsingResult
+import com.devops.redrops.app.utils.HtmlParser
+import com.devops.redrops.app.addfeed.ParsingResult
 import junit.framework.TestCase
 import okhttp3.OkHttpClient
 import org.junit.Assert
