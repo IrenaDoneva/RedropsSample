@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "723550278200",
+    "project_id": "devopsredrops",
+    "storage_bucket": "devopsredrops.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723550278200:android:4bffafd680fd7836fecccd",
+        "android_client_info": {
+          "package_name": "com.devops.redrops.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723550278200-avt46dfou2p5leu8d095msjhhg3h40ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADDucmzk7eKMrfywocLkeKqHeb9fPUWhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723550278200-avt46dfou2p5leu8d095msjhhg3h40ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
