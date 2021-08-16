@@ -34,6 +34,7 @@ class WebViewActivity : AppCompatActivity() {
         val actionBarColor = intent.getIntExtra(ACTION_BAR_COLOR, ContextCompat.getColor(this, R.color.colorPrimary))
         supportActionBar?.setBackgroundDrawable(ColorDrawable(actionBarColor))
         setWebViewSettings()
+        
 
         with(binding) {
             activityWebViewSwipe.setOnRefreshListener { binding.webView.reload() }
