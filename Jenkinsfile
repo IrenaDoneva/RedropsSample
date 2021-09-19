@@ -69,12 +69,6 @@ pipeline {
         // Upload the APK to Google Play
         androidApkUpload googleCredentialsId: 'Google Play', apkFilesPattern: '**/*-release.apk', trackName: 'beta'
       }
-      post {
-        success {
-          // Notify if the upload succeeded
-          mail to: 'irenadonevaa@gmail.com', subject: 'New build available!', body: 'Check it out!'
-        }
-      }
     }
   }
   post {
