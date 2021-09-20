@@ -11,8 +11,8 @@ android {
         targetSdkVersion rootProject.ext.targetSdkVersion
         buildToolsVersion rootProject.ext.buildToolsVersion
 
-        versionCode 17
-        versionName "1.7"
+        versionCode 18
+        versionName "1.8"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     testOptions {
